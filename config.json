@@ -113,7 +113,6 @@
         "version": "2.16",
         "id": "widgets_Navigate_Widget_6",
         "name": "Navigate",
-        "config": null,
         "url": "/webappbuilder/apps/2/widgets/Navigate/",
         "visible": false
       },
@@ -216,21 +215,22 @@
         "config": "configs/About/config_widgets_About_Widget_11.json",
         "index": 3,
         "id": "widgets_About_Widget_11",
-        "url": "/webappbuilder/apps/2/widgets/About/"
+        "url": "/webappbuilder/apps/2/widgets/About/",
+        "icon": "configs\\About\\icon_widgets_About_Widget_11.png"
       }
     ],
     "groups": []
   },
   "loadingPage": {
-    "backgroundColor": "#508dca",
+    "backgroundColor": "#b90020",
     "backgroundImage": {
       "visible": false
     },
     "loadingGif": {
       "visible": true,
-      "uri": "configs/loading/images/predefined_loading_1.gif",
-      "width": 58,
-      "height": 29
+      "uri": "/webappbuilder/apps/2/configs/loading/images/predefined_loading_4.gif",
+      "width": 34,
+      "height": 34
     }
   },
   "wabVersion": "2.16",
