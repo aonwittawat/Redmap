@@ -1,0 +1,22 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "sources": [
+    {
+      "layerId": "17226c08cb0-layer-0",
+      "url": "https://services5.arcgis.com/60ZyqBuk6DAAkHuh/arcgis/rest/services/list_of_ppl_v2/FeatureServer/0",
+      "name": "ผู้เสียชีวิต",
+      "placeholder": "ค้นชื่อผู้เสียชีวิต",
+      "searchFields": [
+        "Name"
+      ],
+      "displayField": "Name",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    }
+  ]
+}
