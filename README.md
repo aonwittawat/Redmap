@@ -3,4 +3,4 @@
 
 ### Demo Web Application
 
-> Check out the demo [here](https://aonwittawat.github.io/Redmap/.
+> Check out the demo [here](https://aonwittawat.github.io/Redmap/).
